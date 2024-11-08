@@ -1,4 +1,4 @@
-Hello! My name is @WilliamIsMe1 and I like to program stuff. Right now I am working on a Minecraft ripoff \*cough\* fork and a text-based adventure game engine.
+Hello! My name is @WilliamIsMe1 and I like to program stuff. 
 
 <!---
 WilliamIsMe1/WilliamIsMe1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
